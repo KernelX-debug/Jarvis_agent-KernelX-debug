@@ -1,0 +1,7 @@
+# Instalacion basica (modo texto, acciones seguras e ingesta de texto):
+-e .
+
+# Para voz local instala: pip install -e ".[voice]"
+# Para recursos de Hugging Face: pip install -e ".[hub]"
+# Para ejecutar Transformers localmente: pip install -e ".[llm-hf]"
+# Para todo: pip install -e ".[all]"
